@@ -95,7 +95,7 @@ h1 {
   margin-bottom: 3rem;
 }
 
-.btn {
+button {
   border: none;
   background-color: #eee;
   color: #222;
@@ -105,7 +105,7 @@ h1 {
   cursor: pointer;
 }
 
-.btn:hover {
+button:hover {
   background-color: #ccc;
 }
 
@@ -114,6 +114,6 @@ h1 {
   height: 3rem;
 }
 
-.label-score {
+.labelScore {
   margin-bottom: 2rem;
 }
